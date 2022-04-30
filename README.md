@@ -3,7 +3,7 @@
 
 
 # Installation Python
-GoogleColab : https://colab.research.google.com/ (Rien à faire, juste besoin d'une adresse gmail)
+GoogleColab : https://colab.research.google.com/ (Rien à faire, juste besoin d'une adresse gmail) <br>
 Anaconda: https://www.anaconda.com/products/distribution
 
 
