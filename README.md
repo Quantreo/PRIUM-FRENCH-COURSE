@@ -13,6 +13,6 @@ Anaconda: https://www.anaconda.com/products/distribution
 <br>
 
 ### VPS / Install Windows in your mac (Windows est obligatoire pour la seciton 8 "MT5 live trading")
-VPS: https://billing.virmach.com/aff.php?aff=10381
-BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
+VPS: https://billing.virmach.com/aff.php?aff=10381<br>
+BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo<br>
 Parrallels Desktop: https://www.parallels.com/fr/
